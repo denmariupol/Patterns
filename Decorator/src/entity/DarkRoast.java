@@ -7,14 +7,13 @@ import abstr.Beverage;
  */
 public class DarkRoast extends Beverage {
     Beverage beverage;
-    public DarkRoast(int size){
+    public DarkRoast(int s){
         description = "Dark Roast";
-//        this.beverage = this;
-
+        this.size = s;
     }
     @Override
     public double cost() {
-        switch (this.getSize()) {
+        switch (size) {
             case 1:
                 return 0.69;
             case 2:

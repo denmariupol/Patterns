@@ -16,7 +16,7 @@ public class Espresso extends Beverage {
 
     @Override
     public double cost() {
-        switch (beverage.getSize()) {
+        switch (size) {
             case 1:
                 return 0.90;
             case 2:

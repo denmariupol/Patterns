@@ -15,7 +15,7 @@ public class Decaf extends Beverage {
     }
     @Override
     public double cost() {
-        switch (beverage.getSize()) {
+        switch (size) {
             case 1:
                 return 0.75;
             case 2:
