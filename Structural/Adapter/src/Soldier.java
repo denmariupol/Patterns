@@ -1,17 +1,24 @@
 /**
- * Created by den on 2017-01-15.
+ * Created by den on 2017-01-16.
  */
-public class Soldier {
-    public void ammo(){
-        System.out.println("Adding ammo");
+public class Soldier extends Loader implements Ammunition {
+    @Override
+    public void getBullets() {
+        bullets();
     }
-    public void grenade(){
-        System.out.println("Adding grenade");
+
+    @Override
+    public void getGrenades() {
+        grenades();
     }
-    public void riffle(){
-        System.out.println("Adding rifle");
+
+    @Override
+    public void getRifle() {
+        rifle();
     }
-    public void armour(){
-        System.out.println("Adding armour");
+
+    @Override
+    public void getArmour() {
+        armour();
     }
 }
