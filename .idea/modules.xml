@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strategy/Game/Game.iml" filepath="$PROJECT_DIR$/Strategy/Game/Game.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Obsever/Obsever.iml" filepath="$PROJECT_DIR$/Obsever/Obsever.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structural/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Builder/Builder.iml" filepath="$PROJECT_DIR$/Creational/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Command/Command.iml" filepath="$PROJECT_DIR$/Behavioral/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Behavioral/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Creational/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Game/Game.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Obsever/Obsever.iml" filepath="$PROJECT_DIR$/Behavioral/Obsever/Obsever.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Creational/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>

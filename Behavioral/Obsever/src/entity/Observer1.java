@@ -1,6 +1,5 @@
 package entity;
 
-import iface.Observable;
 import iface.Observer;
 
 /**
