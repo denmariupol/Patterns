@@ -3,10 +3,13 @@
  */
 public class Main {
     public static void main(String[] args) {
-        Website[] websites = new Portal(new JavaDeveloper());
+        Website[] websites = {
+            new LandingPage(new JavaDeveloper()),
+            new Portal(new CppDeveloper())
+        };
 
         for (Website website : websites) {
-            website.buildingSite();
+            website.buildSite();
         }
     }
 }

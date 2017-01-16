@@ -7,9 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/Structural/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Structural/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Builder/Builder.iml" filepath="$PROJECT_DIR$/Creational/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Command/Command.iml" filepath="$PROJECT_DIR$/Behavioral/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Composite/Composite.iml" filepath="$PROJECT_DIR$/Structural/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Creational.iml" filepath="$PROJECT_DIR$/Creational/Creational.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Behavioral/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Behavioral/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structural/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory/Factory.iml" filepath="$PROJECT_DIR$/Creational/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Structural/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Game/Game.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Game/Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Obsever/Obsever.iml" filepath="$PROJECT_DIR$/Behavioral/Obsever/Obsever.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
