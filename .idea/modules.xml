@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Interpreter/Interpreter.iml" filepath="$PROJECT_DIR$/Behavioral/Interpreter/Interpreter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Behavioral/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/Behavioral/Mediator/Mediator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Memento/Memento.iml" filepath="$PROJECT_DIR$/Behavioral/Memento/Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structural/Proxy/Proxy.iml" />
