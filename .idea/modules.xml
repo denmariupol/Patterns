@@ -15,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structural/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Structural/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Interpeter.iml" filepath="$PROJECT_DIR$/Behavioral/Interpeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Interpreter/Interpreter.iml" filepath="$PROJECT_DIR$/Behavioral/Interpreter/Interpreter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structural/Proxy/Proxy.iml" />
