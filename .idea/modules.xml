@@ -20,11 +20,16 @@
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Behavioral/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/Behavioral/Mediator/Mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Memento/Memento.iml" filepath="$PROJECT_DIR$/Behavioral/Memento/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/Behavioral/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Creational/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Structural/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Creational/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/State/State.iml" filepath="$PROJECT_DIR$/Behavioral/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Structural.iml" filepath="$PROJECT_DIR$/Structural/Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/Behavioral/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/Behavioral/Visitor/Visitor.iml" />
     </modules>
   </component>
 </project>
